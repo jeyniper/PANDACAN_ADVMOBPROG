@@ -1,3 +1,3 @@
-# rosales_labactivity_2
+# pandacan_labactivity_2
 
 A new Flutter project.
